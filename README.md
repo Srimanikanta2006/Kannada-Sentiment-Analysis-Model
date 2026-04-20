@@ -189,7 +189,7 @@ Git LFS will automatically handle actual storage of large `.pkl` files on GitHub
 You can deploy the Streamlit app to **Streamlit Community Cloud**, **Render**, **Heroku**, or any similar platform.
 
 - **Live demo URL (placeholder)**:  
-  `https://your-deployment-url.example.com`
+  `https://kannada-sentiment-analysis.streamlit.app/`
 
 When deploying, ensure:
 
